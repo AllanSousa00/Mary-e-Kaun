@@ -1,11 +1,11 @@
-# Mari e Cauã
+# Mary-e-Kaun
 
 Projeto web estático do jogo **Caça ao Contexto**, com interface inspirada nas artes da pasta `Jogar` e foco em estudo por matéria, tema e revisão por caça-palavras.
 
 ## Estrutura
 
 ```text
-Mari e Cauã/
+Mary-e-Kaun/
 |-- index.html
 |-- jogo.html
 |-- configuracoes.html
